@@ -1,0 +1,6 @@
+print("2. Checking types with type()")
+print(type(name))
+print(type(age))
+print(type(height_in_cm))
+print(type(is_student))
+print()
